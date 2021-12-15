@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252230401068",
+    "project_id": "fridzip-deff2",
+    "storage_bucket": "fridzip-deff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252230401068:android:1b6bdac721cc12563f2589",
+        "android_client_info": {
+          "package_name": "com.example.fridzip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252230401068-93v8u7ednce7lm2fim34np8okhl4uf7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridzip",
+            "certificate_hash": "5c43413fe4067f7350584b24130da45e7e13f53c"
+          }
+        },
+        {
+          "client_id": "252230401068-q09udcjnodu4ufujiaqvmqc4fvdfi6vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhpsxISv7zZfa9WO2SzuMcZL8UCSnIgDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252230401068-q09udcjnodu4ufujiaqvmqc4fvdfi6vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
